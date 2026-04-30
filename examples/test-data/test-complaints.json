@@ -1,0 +1,20 @@
+[ 
+  { 
+    "email_id": "test_001", 
+    "sender_email": "customer1@example.com", 
+    "subject": "Phàn nàn về giao hàng", 
+    "content": "Đơn hàng của tôi bị trễ 3 ngày...", 
+    "is_complaint": true, 
+    "complaint_category": "shipping", 
+    "sentiment_score": -0.8 
+  }, 
+  { 
+    "email_id": "test_002", 
+    "sender_email": "customer2@example.com", 
+    "subject": "Cảm ơn dịch vụ tốt", 
+    "content": "Tôi rất hài lòng với sản phẩm...", 
+    "is_complaint": false, 
+    "complaint_category": "feedback", 
+    "sentiment_score": 0.9 
+  } 
+] 
